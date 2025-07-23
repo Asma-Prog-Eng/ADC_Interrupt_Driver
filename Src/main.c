@@ -4,7 +4,7 @@
  * @author         : Asma Askri
  * @brief          : Main program body
  ******************************************************************************
- * Bare metal ADC Interrupt Driver implementation
+ * Bare metal implementation of an ADC Interrupt Driver 
  * Each time measurement is done, an interrupt is generated
  * and the measured potentiometer voltage is displayed , on debugging mode
  ******************************************************************************
